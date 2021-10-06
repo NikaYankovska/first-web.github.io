@@ -1,0 +1,19 @@
+.test h3 {
+    color: red;
+    font-family: "Montserrat";
+    font-size: 25px;
+    letter-spacing: 10px;
+    text-align: center;
+    margin: 20px 15px 40px 7px;
+    padding: 20px
+}
+body {
+    background-color: rgb(224, 174, 174);
+}
+.back {
+background-color: aqua;
+}
+.back img {
+    height: 300px
+    ;
+}
